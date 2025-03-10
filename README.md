@@ -15,8 +15,9 @@ I am passionate about **DevOps, Cloud Computing, Full Stack Development and Prob
 ---
 
 ## 📫 **Connect With Me**  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/your-profile/)  
-- 🐦 [Twitter](https://twitter.com/your-profile/)  
-- 💼 [Portfolio](https://your-portfolio.com/)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/atinshay-awasthi)
+- <!-- - 🐦 [Twitter](https://twitter.com/your-profile/)  
+  💼 [Portfolio](https://your-portfolio.com/) -->
+  
 
 Let's connect and build something amazing! 🚀  
