@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Atinshay Awasthi 
 
-🚀 **DevOps Engineer | Full Stack Developer(MERN) | Cloud Enthusiast**  
+🚀 **DevOps Engineer | Web development(MERN) | Cloud Enthusiast**  
 
 I am passionate about **DevOps, Cloud Computing, Full Stack Development and Problem Solving**, working on building scalable systems and automating workflows. Always eager to learn, experiment, and solve real-world problems!  
 
