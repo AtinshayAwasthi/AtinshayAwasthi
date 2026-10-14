@@ -1,17 +1,18 @@
-<!-- ===================== HEADER BANNER ===================== -->
+<!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Atinshay%20Awasthi&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20%28MERN%29%20%7C%20DevOps%20%26%20Cloud&descSize=18&descAlignY=60" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0F2027,50:203A43,100:2C5364&height=240&section=header&text=Atinshay%20Awasthi&fontSize=56&fontColor=ffffff&fontAlignY=40&desc=Software%20Engineer%20%E2%80%A2%20Full%20Stack%20%28MERN%29%20%E2%80%A2%20DevOps%20%26%20Cloud&descSize=18&descAlignY=62&animation=fadeIn" width="100%" alt="header"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=2C9CDB&center=true&vCenter=true&width=700&lines=Building+full-stack+apps+with+MERN;Deploying+with+Docker%2C+Kubernetes+%26+AWS;GATE+2026+Qualified+%7C+150%2B+DSA+Problems;Open+to+Software+Engineer+roles+%F0%9F%9A%80" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=2C9CDB&center=true&vCenter=true&width=720&lines=Building+full-stack+apps+with+MERN;Shipping+with+Docker%2C+Kubernetes+%26+AWS;GATE+2026+Qualified+%7C+150%2B+DSA+Problems;Open+to+Software+Engineer+roles+%F0%9F%9A%80" alt="Typing SVG"/>
 </a>
 
-<br/>
+<br/><br/>
 
 <a href="https://www.linkedin.com/in/atinshay-awasthi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:atinshayawasthi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://github.com/AtinshayAwasthi"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+<a href="https://www.geeksforgeeks.org/user/YOUR_GFG_USERNAME"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/></a>
 <img src="https://komarev.com/ghpvc/?username=AtinshayAwasthi&label=Profile%20Views&color=2C5364&style=for-the-badge" alt="Profile views"/>
 
 </div>
@@ -21,27 +22,28 @@
 <!-- ===================== ABOUT ===================== -->
 ## 👨‍💻 About Me
 
-```text
+```json
 {
-  "name":       "Atinshay Awasthi",
-  "role":       "Software Engineer (Full Stack + DevOps)",
-  "education":  "B.E. CSE (DevOps), Chandigarh University, 2026",
-  "interests":  ["Scalable backends", "Cloud-native systems", "Automation", "Problem solving"],
-  "open_to":    "Software Engineer / Full Stack / DevOps roles",
-  "location":   "India"
+  "name":      "Atinshay Awasthi",
+  "role":      "Software Engineer (Full Stack + DevOps)",
+  "education": "B.E. CSE (DevOps), Chandigarh University, 2026",
+  "focus":     ["Scalable backends", "Cloud-native systems", "Automation", "Problem solving"],
+  "open_to":   "Software Engineer / Full Stack / DevOps roles"
 }
 ```
 
 I build and ship full-stack applications, from **REST APIs with Node.js and MongoDB** to containerised deployments on **Docker, Kubernetes and AWS**. I've completed internships in both **full-stack development** and **DevOps**, qualified **GATE 2026 (CS)**, and keep my fundamentals sharp with **C++ and DSA**.
 
+<div align="center">
 <table>
   <tr>
-    <td align="center"><b>🎓 GATE 2026</b><br/>CS Qualified</td>
-    <td align="center"><b>🧩 150+</b><br/>DSA Problems</td>
-    <td align="center"><b>🏆 10+</b><br/>Hackathons</td>
-    <td align="center"><b>💼 2</b><br/>Internships</td>
+    <td align="center"><h3>🎓 GATE 2026</h3>CS Qualified</td>
+    <td align="center"><h3>🧩 150+</h3>DSA Problems</td>
+    <td align="center"><h3>🏆 10+</h3>Hackathons</td>
+    <td align="center"><h3>💼 2</h3>Internships</td>
   </tr>
 </table>
+</div>
 
 <!-- ===================== TECH STACK ===================== -->
 ## 🛠️ Tech Stack
@@ -107,15 +109,46 @@ Attendance and analytics for hybrid and remote teams.
 <!-- ===================== EXPERIENCE ===================== -->
 ## 💼 Experience
 
-**DevOps Summer Intern · Celebal Technologies** *(Remote · Jun – Aug 2025)*
-- Completed a structured DevOps and cloud internship with hands-on labs and guided assignments
-- Delivered a capstone project on application deployment and automation
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**DevOps Summer Intern**
+Celebal Technologies · *Remote · Jun – Aug 2025*
+
+- Structured DevOps and cloud internship with hands-on labs
+- Capstone project on application deployment and automation
 - Worked across cloud infrastructure and Linux environments
 
-**Full Stack Developer Intern · Kraf Technologies** *(Remote · Apr – Jun 2025)*
+</td>
+<td width="50%" valign="top">
+
+**Full Stack Developer Intern**
+Kraf Technologies · *Remote · Apr – Jun 2025*
+
 - Built frontend and backend features for the Krafcool production website
 - Followed the SDLC under senior developer guidance
 - Debugged issues and improved website performance
+
+</td>
+</tr>
+</table>
+
+<!-- ===================== CODING PROFILES ===================== -->
+## 🧠 Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME">
+  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode stats" width="48%"/>
+</a>
+<a href="https://www.geeksforgeeks.org/user/YOUR_GFG_USERNAME">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-View%20Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
+</a>
+
+</div>
+
+> 💡 **150+ DSA problems** solved on coding platforms, mainly in **C++**.
 
 <!-- ===================== STATS ===================== -->
 ## 📊 GitHub Analytics
@@ -129,6 +162,19 @@ Attendance and analytics for hybrid and remote teams.
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AtinshayAwasthi&theme=tokyo-night&hide_border=true&bg_color=0F2027&color=2C9CDB&line=2C9CDB&point=ffffff" alt="Contribution graph"/>
 
+<img src="https://github-profile-trophy.vercel.app/?username=AtinshayAwasthi&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies"/>
+
+</div>
+
+<!-- ===================== SNAKE ===================== -->
+## 🐍 Contribution Snake
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AtinshayAwasthi/AtinshayAwasthi/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AtinshayAwasthi/AtinshayAwasthi/output/github-snake.svg"/>
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/AtinshayAwasthi/AtinshayAwasthi/output/github-snake-dark.svg"/>
+</picture>
 </div>
 
 <!-- ===================== CONNECT ===================== -->
@@ -140,6 +186,6 @@ I'm open to **Software Engineer, Full Stack and DevOps** opportunities. If you h
 
 📧 [atinshayawasthi@gmail.com](mailto:atinshayawasthi@gmail.com) &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/atinshay-awasthi)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=100&section=footer" width="100%" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=120&section=footer" width="100%" alt="footer"/>
 
 </div>
