@@ -1,132 +1,145 @@
-<h1 align="center">Hi, I'm Atinshay Awasthi 👋</h1>
+<!-- ===================== HEADER BANNER ===================== -->
+<div align="center">
 
-<p align="center">
-  <b>Software Engineer · Full Stack (MERN) · DevOps & Cloud</b><br/>
-  B.E. in Computer Science (DevOps), Chandigarh University · Class of 2026
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Atinshay%20Awasthi&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20%28MERN%29%20%7C%20DevOps%20%26%20Cloud&descSize=18&descAlignY=60" width="100%" alt="header"/>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/atinshay-awasthi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:atinshayawasthi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://github.com/AtinshayAwasthi"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-</p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=2C9CDB&center=true&vCenter=true&width=700&lines=Building+full-stack+apps+with+MERN;Deploying+with+Docker%2C+Kubernetes+%26+AWS;GATE+2026+Qualified+%7C+150%2B+DSA+Problems;Open+to+Software+Engineer+roles+%F0%9F%9A%80" alt="Typing SVG"/>
+</a>
 
----
+<br/>
 
+<a href="https://www.linkedin.com/in/atinshay-awasthi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:atinshayawasthi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://github.com/AtinshayAwasthi"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<img src="https://komarev.com/ghpvc/?username=AtinshayAwasthi&label=Profile%20Views&color=2C5364&style=for-the-badge" alt="Profile views"/>
+
+</div>
+
+<br/>
+
+<!-- ===================== ABOUT ===================== -->
 ## 👨‍💻 About Me
 
-I'm a software engineer who enjoys building full-stack applications and shipping them reliably. I've worked on REST APIs with **Node.js and MongoDB**, deployed workloads with **Docker, Kubernetes and AWS**, and completed internships in both **full-stack development** and **DevOps**. I also have a strong DSA foundation in **C++** and qualified **GATE 2026 (CS)**.
+```text
+{
+  "name":       "Atinshay Awasthi",
+  "role":       "Software Engineer (Full Stack + DevOps)",
+  "education":  "B.E. CSE (DevOps), Chandigarh University, 2026",
+  "interests":  ["Scalable backends", "Cloud-native systems", "Automation", "Problem solving"],
+  "open_to":    "Software Engineer / Full Stack / DevOps roles",
+  "location":   "India"
+}
+```
 
-- 🔭 Looking for **Software Engineer / Full Stack / DevOps** roles (0–2 years)
-- 🌱 Currently deepening my knowledge of cloud-native systems and scalable backend design
-- 🏆 Participated in **10+ hackathons**
-- 🧩 Solved **150+ DSA problems**
+I build and ship full-stack applications, from **REST APIs with Node.js and MongoDB** to containerised deployments on **Docker, Kubernetes and AWS**. I've completed internships in both **full-stack development** and **DevOps**, qualified **GATE 2026 (CS)**, and keep my fundamentals sharp with **C++ and DSA**.
 
----
+<table>
+  <tr>
+    <td align="center"><b>🎓 GATE 2026</b><br/>CS Qualified</td>
+    <td align="center"><b>🧩 150+</b><br/>DSA Problems</td>
+    <td align="center"><b>🏆 10+</b><br/>Hackathons</td>
+    <td align="center"><b>💼 2</b><br/>Internships</td>
+  </tr>
+</table>
 
+<!-- ===================== TECH STACK ===================== -->
 ## 🛠️ Tech Stack
 
-**Languages**
+<div align="center">
 
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+| | |
+|:--|:--|
+| **Languages** | <img src="https://skillicons.dev/icons?i=cpp,js,html,css" alt="languages"/> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react,tailwind" alt="frontend"/> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express" alt="backend"/> |
+| **Databases** | <img src="https://skillicons.dev/icons?i=mongodb,supabase,postgres" alt="databases"/> |
+| **DevOps & Cloud** | <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,aws" alt="devops"/> |
+| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="tools"/> |
 
-**Frontend**
+</div>
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+**Core CS:** Data Structures & Algorithms · OOP · Operating Systems · Computer Networks · SDLC
+**AWS:** EC2 · S3 · IAM · VPC · CloudWatch · EKS
 
-**Backend & Databases**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-
-**DevOps & Cloud**
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
-**Core CS:** DSA · OOP · Operating Systems · Computer Networks · SDLC
-
----
-
+<!-- ===================== PROJECTS ===================== -->
 ## 🚀 Featured Projects
 
-### 🔍 [FindIt – Lost & Found Platform](https://github.com/AtinshayAwasthi)
-A full-stack web app that lets users report, browse and recover lost items.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- RESTful APIs built with Node.js, Express.js and MongoDB
-- JWT authentication with registration, login, protected routes and encrypted passwords
-- Search and filtering by category, location, date range and keyword
-- Image uploads via Cloudinary; responsive UI with Tailwind CSS and Shadcn/UI
+### 🔍 FindIt
+**Lost & Found Web Platform**
 
-`React` `Node.js` `Express.js` `MongoDB` `Tailwind CSS` `Cloudinary`
+Report, browse and recover lost items in one place.
 
-🔗 [Live Demo](#) · [Source Code](#)
+- RESTful APIs with Node.js, Express.js and MongoDB
+- JWT auth with protected routes and encrypted passwords
+- Search by category, location, date range and keyword
+- Cloudinary image uploads; responsive Tailwind + Shadcn/UI
 
-### 📍 [EffiSphere – Employee Monitoring Platform](https://github.com/AtinshayAwasthi)
-An attendance and monitoring platform for hybrid and remote teams.
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
 
-- Automated check-in/check-out using a 200-meter GPS geofence
-- Separate admin and employee dashboards with role-based access control
+🔗 [**Live Demo**](#) · [**Code**](#)
+
+</td>
+<td width="50%" valign="top">
+
+### 📍 EffiSphere
+**Employee Monitoring Platform**
+
+Attendance and analytics for hybrid and remote teams.
+
+- Automated check-in/out with a 200 m GPS geofence
+- Separate admin and employee dashboards with RBAC
 - Real-time location tracking and heatmaps
+- Built on Supabase for a scalable backend
 
-`React` `Supabase` `Tailwind CSS` `Geolocation API`
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
 
-🔗 [Live Demo](#) · [Source Code](#)
+🔗 [**Live Demo**](#) · [**Code**](#)
 
----
+</td>
+</tr>
+</table>
 
+<!-- ===================== EXPERIENCE ===================== -->
 ## 💼 Experience
 
-| Role | Company | Duration |
-|------|---------|----------|
-| **DevOps Summer Intern** | Celebal Technologies (Remote) | Jun 2025 – Aug 2025 |
-| **Full Stack Developer Intern** | Kraf Technologies (Remote) | Apr 2025 – Jun 2025 |
+**DevOps Summer Intern · Celebal Technologies** *(Remote · Jun – Aug 2025)*
+- Completed a structured DevOps and cloud internship with hands-on labs and guided assignments
+- Delivered a capstone project on application deployment and automation
+- Worked across cloud infrastructure and Linux environments
 
-- **Celebal Technologies:** Completed a structured DevOps and cloud internship, including a capstone project on application deployment and automation.
-- **Kraf Technologies:** Worked on frontend and backend features of the Krafcool production website, debugging issues and improving performance.
+**Full Stack Developer Intern · Kraf Technologies** *(Remote · Apr – Jun 2025)*
+- Built frontend and backend features for the Krafcool production website
+- Followed the SDLC under senior developer guidance
+- Debugged issues and improved website performance
 
----
+<!-- ===================== STATS ===================== -->
+## 📊 GitHub Analytics
 
-## 🏅 Achievements
+<div align="center">
 
-- 🎓 Qualified **GATE 2026 (CS)**
-- 🏆 Participated in **10+ hackathons**
-- 🧠 Solved **150+ DSA problems**
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=AtinshayAwasthi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F2027&title_color=2C9CDB&icon_color=2C9CDB" alt="GitHub stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtinshayAwasthi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F2027&title_color=2C9CDB" alt="Top languages"/>
 
----
+<img src="https://streak-stats.demolab.com/?user=AtinshayAwasthi&theme=tokyonight&hide_border=true&background=0F2027&ring=2C9CDB&fire=2C9CDB&currStreakLabel=2C9CDB" alt="GitHub streak"/>
 
-## 📊 GitHub Stats
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AtinshayAwasthi&theme=tokyo-night&hide_border=true&bg_color=0F2027&color=2C9CDB&line=2C9CDB&point=ffffff" alt="Contribution graph"/>
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AtinshayAwasthi&show_icons=true&theme=default&hide_border=true" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtinshayAwasthi&layout=compact&hide_border=true" alt="Top languages"/>
-</p>
+</div>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=AtinshayAwasthi&hide_border=true" alt="GitHub streak"/>
-</p>
+<!-- ===================== CONNECT ===================== -->
+## 🤝 Let's Connect
 
----
+I'm open to **Software Engineer, Full Stack and DevOps** opportunities. If you have a role, a project or just want to talk tech, reach out.
 
-## 📫 Let's Connect
+<div align="center">
 
-I'm open to **Software Engineer, Full Stack and DevOps** opportunities. Feel free to reach out!
+📧 [atinshayawasthi@gmail.com](mailto:atinshayawasthi@gmail.com) &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/atinshay-awasthi)
 
-- 📧 [atinshayawasthi@gmail.com](mailto:atinshayawasthi@gmail.com)
-- 💼 [linkedin.com/in/atinshay-awasthi](https://www.linkedin.com/in/atinshay-awasthi)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=100&section=footer" width="100%" alt="footer"/>
 
-<p align="center">⭐ If you like my work, consider starring a repo!</p>
+</div>
