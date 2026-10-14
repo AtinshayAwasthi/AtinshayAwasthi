@@ -1,8 +1,8 @@
-<!-- ===================== HEADER ===================== -->
+<!-- ===================== HERO ===================== -->
 <div align="center">
 
 <h1>Atinshay Awasthi</h1>
-<h3>Software Engineer • Full Stack (MERN) • DevOps &amp; Cloud</h3>
+<h3>Software Engineer &nbsp;•&nbsp; Full Stack (MERN) &nbsp;•&nbsp; DevOps &amp; Cloud</h3>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=2C9CDB&center=true&vCenter=true&width=900&lines=Building+full-stack+apps+with+MERN;Shipping+with+Docker%2C+Kubernetes+%26+AWS;GATE+2026+Qualified+%7C+150%2B+DSA+Problems;Open+to+Software+Engineer+roles+%F0%9F%9A%80" alt="Typing SVG"/>
@@ -10,40 +10,41 @@
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/atinshay-awasthi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:atinshayawasthi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
-<a href="https://www.geeksforgeeks.org/user/YOUR_GFG_USERNAME"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/></a>
+<a href="https://www.linkedin.com/in/atinshay-awasthi"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:atinshayawasthi@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://github.com/AtinshayAwasthi?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Explore-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/></a>
+<img src="https://img.shields.io/badge/Open%20to%20Work-Software%20Engineer-2EA043?style=for-the-badge" alt="Open to work"/>
 
 </div>
 
-<br/>
+---
+
+<!-- ===================== SNAPSHOT ===================== -->
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="25%"><h2>🎓</h2><b>GATE 2026</b><br/>CS Qualified</td>
+    <td align="center" width="25%"><h2>🧩</h2><b>150+</b><br/>DSA Problems Solved</td>
+    <td align="center" width="25%"><h2>🏆</h2><b>10+</b><br/>Hackathons</td>
+    <td align="center" width="25%"><h2>💼</h2><b>2</b><br/>Internships</td>
+  </tr>
+</table>
+</div>
 
 <!-- ===================== ABOUT ===================== -->
 ## 👨‍💻 About Me
 
+I'm a software engineer who likes taking an idea from a blank editor to a **deployed, working product**. I build full-stack apps with **React, Node.js and MongoDB**, and I ship them using **Docker, Kubernetes and AWS**. I've done internships in both **full-stack development** and **DevOps**, so I'm comfortable on both sides of the code-to-production path.
+
 ```json
 {
   "name":      "Atinshay Awasthi",
-  "role":      "Software Engineer (Full Stack + DevOps)",
   "education": "B.E. CSE (DevOps), Chandigarh University, 2026",
-  "focus":     ["Scalable backends", "Cloud-native systems", "Automation", "Problem solving"],
+  "strengths": ["REST APIs", "Full-stack apps", "Containers & Kubernetes", "AWS", "DSA in C++"],
+  "currently": "Exploring cloud-native systems and scalable backend design",
   "open_to":   "Software Engineer / Full Stack / DevOps roles"
 }
 ```
-
-I build and ship full-stack applications, from **REST APIs with Node.js and MongoDB** to containerised deployments on **Docker, Kubernetes and AWS**. I've completed internships in both **full-stack development** and **DevOps**, qualified **GATE 2026 (CS)**, and keep my fundamentals sharp with **C++ and DSA**.
-
-<div align="center">
-<table>
-  <tr>
-    <td align="center"><h3>🎓 GATE 2026</h3>CS Qualified</td>
-    <td align="center"><h3>🧩 150+</h3>DSA Problems</td>
-    <td align="center"><h3>🏆 10+</h3>Hackathons</td>
-    <td align="center"><h3>💼 2</h3>Internships</td>
-  </tr>
-</table>
-</div>
 
 <!-- ===================== TECH STACK ===================== -->
 ## 🛠️ Tech Stack
@@ -61,8 +62,26 @@ I build and ship full-stack applications, from **REST APIs with Node.js and Mong
 
 </div>
 
-**Core CS:** Data Structures & Algorithms · OOP · Operating Systems · Computer Networks · SDLC
-**AWS:** EC2 · S3 · IAM · VPC · CloudWatch · EKS
+<details>
+<summary><b>More details: Core CS and AWS services</b></summary>
+<br/>
+
+- **Core CS:** Data Structures & Algorithms · OOP · Operating Systems · Computer Networks · SDLC
+- **AWS:** EC2 · S3 · IAM · VPC · CloudWatch · EKS
+- **Web:** RESTful APIs · JWT authentication · Microservice concepts
+
+</details>
+
+### 🔄 How I Build &amp; Ship
+
+```mermaid
+flowchart LR
+    A[React + Tailwind<br/>Frontend] --> B[Node.js + Express<br/>REST API]
+    B --> C[(MongoDB / Supabase)]
+    B --> D[Docker<br/>Container]
+    D --> E[Kubernetes<br/>EKS]
+    E --> F[AWS<br/>EC2 · S3 · VPC]
+```
 
 <!-- ===================== PROJECTS ===================== -->
 ## 🚀 Featured Projects
@@ -83,7 +102,7 @@ Report, browse and recover lost items in one place.
 
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
 
-🔗 [**Live Demo**](#) · [**Code**](#)
+🔗 [**Live Demo**](#) · [**Source Code**](#)
 
 </td>
 <td width="50%" valign="top">
@@ -100,7 +119,7 @@ Attendance and analytics for hybrid and remote teams.
 
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
 
-🔗 [**Live Demo**](#) · [**Code**](#)
+🔗 [**Live Demo**](#) · [**Source Code**](#)
 
 </td>
 </tr>
@@ -134,21 +153,13 @@ Kraf Technologies · *Remote · Apr – Jun 2025*
 </tr>
 </table>
 
-<!-- ===================== CODING PROFILES ===================== -->
-## 🧠 Coding Profiles
+<!-- ===================== EDUCATION ===================== -->
+## 🎓 Education &amp; Achievements
 
-<div align="center">
-
-<a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME">
-  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode stats" width="48%"/>
-</a>
-<a href="https://www.geeksforgeeks.org/user/YOUR_GFG_USERNAME">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-View%20Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
-</a>
-
-</div>
-
-> 💡 **150+ DSA problems** solved on coding platforms, mainly in **C++**.
+- **B.E. in Computer Science Engineering (DevOps)**, Chandigarh University, Punjab · 2022 – 2026
+- 🏅 Qualified **GATE 2026 (CS)**
+- 🏆 Participated in **10+ hackathons** during college
+- 🧠 Solved **150+ DSA problems** on coding platforms
 
 <!-- ===================== STATS ===================== -->
 ## 📊 GitHub Analytics
@@ -160,31 +171,20 @@ Kraf Technologies · *Remote · Apr – Jun 2025*
 
 <img src="https://streak-stats.demolab.com/?user=AtinshayAwasthi&theme=tokyonight&hide_border=true&background=0F2027&ring=2C9CDB&fire=2C9CDB&currStreakLabel=2C9CDB" alt="GitHub streak"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AtinshayAwasthi&theme=tokyo-night&hide_border=true&bg_color=0F2027&color=2C9CDB&line=2C9CDB&point=ffffff" alt="Contribution graph"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=AtinshayAwasthi&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies"/>
-
-</div>
-
-<!-- ===================== SNAKE ===================== -->
-## 🐍 Contribution Snake
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AtinshayAwasthi/AtinshayAwasthi/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AtinshayAwasthi/AtinshayAwasthi/output/github-snake.svg"/>
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/AtinshayAwasthi/AtinshayAwasthi/output/github-snake-dark.svg"/>
-</picture>
 </div>
 
 <!-- ===================== CONNECT ===================== -->
 ## 🤝 Let's Connect
 
-I'm open to **Software Engineer, Full Stack and DevOps** opportunities. If you have a role, a project or just want to talk tech, reach out.
+I'm open to **Software Engineer, Full Stack and DevOps** opportunities. If you have a role, a project, or just want to talk tech, reach out.
 
 <div align="center">
 
-📧 [atinshayawasthi@gmail.com](mailto:atinshayawasthi@gmail.com) &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/atinshay-awasthi)
+<a href="mailto:atinshayawasthi@gmail.com"><img src="https://img.shields.io/badge/atinshayawasthi%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://www.linkedin.com/in/atinshay-awasthi"><img src="https://img.shields.io/badge/atinshay--awasthi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
+<br/><br/>
+
+<sub>⭐ If you like my work, feel free to star a repo.</sub>
 
 </div>
