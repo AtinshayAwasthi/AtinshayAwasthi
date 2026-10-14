@@ -1,10 +1,11 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0F2027,50:203A43,100:2C5364&height=240&section=header&text=Atinshay%20Awasthi&fontSize=56&fontColor=ffffff&fontAlignY=40&desc=Software%20Engineer%20%E2%80%A2%20Full%20Stack%20%28MERN%29%20%E2%80%A2%20DevOps%20%26%20Cloud&descSize=18&descAlignY=62&animation=fadeIn" width="100%" alt="header"/>
+<h1>Atinshay Awasthi</h1>
+<h3>Software Engineer • Full Stack (MERN) • DevOps &amp; Cloud</h3>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=2C9CDB&center=true&vCenter=true&width=720&lines=Building+full-stack+apps+with+MERN;Shipping+with+Docker%2C+Kubernetes+%26+AWS;GATE+2026+Qualified+%7C+150%2B+DSA+Problems;Open+to+Software+Engineer+roles+%F0%9F%9A%80" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=2C9CDB&center=true&vCenter=true&width=900&lines=Building+full-stack+apps+with+MERN;Shipping+with+Docker%2C+Kubernetes+%26+AWS;GATE+2026+Qualified+%7C+150%2B+DSA+Problems;Open+to+Software+Engineer+roles+%F0%9F%9A%80" alt="Typing SVG"/>
 </a>
 
 <br/><br/>
@@ -13,7 +14,6 @@
 <a href="mailto:atinshayawasthi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
 <a href="https://www.geeksforgeeks.org/user/YOUR_GFG_USERNAME"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/></a>
-<img src="https://komarev.com/ghpvc/?username=AtinshayAwasthi&label=Profile%20Views&color=2C5364&style=for-the-badge" alt="Profile views"/>
 
 </div>
 
@@ -186,6 +186,5 @@ I'm open to **Software Engineer, Full Stack and DevOps** opportunities. If you h
 
 📧 [atinshayawasthi@gmail.com](mailto:atinshayawasthi@gmail.com) &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/atinshay-awasthi)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=120&section=footer" width="100%" alt="footer"/>
 
 </div>
